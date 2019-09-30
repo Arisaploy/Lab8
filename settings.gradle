@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Lab8MySQLQueryInsert_Sec1_603021065-1'
